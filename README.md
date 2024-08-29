@@ -7,8 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/ricky vince narvasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ricky vince narvasa" height="30" width="40" /></a>
-<a href="https://discord.gg/vreality_wah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vreality_wah" height="30" width="40" /></a>
+<a href="https://fb.com/NarvasaRV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ricky Vince Narvasa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
