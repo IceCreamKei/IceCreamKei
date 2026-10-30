@@ -1,18 +1,18 @@
 <h1 align="center">👋👋👋, I'm Vince</h1>
-<h3 align="center">Aspiring Programmer</h3>
+<h3 align="center">Programmer</h3>
 
-- 🌱 I’m currently learning: **Python, Javascript, Godot**
+- 🌱 My programming languages: **Python, Javascript, Rust, C, Java, Godot**
 
-- 📫 How to reach me: **rcnarvasa@up.edu.ph**
+- 📫 How to reach me: **nrickyvince@gmail.com or rcnarvasa@up.edu.ph**
 
 <h3 align="left">What people should know about me:</h3>
 <p align="left">
-<h4> Computer Science undergraduate with an interest in artificial intelligence and game design. Outside of programming, I scout for budget meals and play tabletop games.</h4>
+<h4> Computer Science graduate with an interest in artificial intelligence and game design. Outside of programming, I scout for budget meals and play tabletop games.</h4>
 </p>
 
-<h3 align="left">Personal Projects:</h3>
+<h3 align="left">Portfolio Website:</h3>
 <p align="left">
-<h4> Turbolence - WORK IN PROGRESS </h4>
+<h4> https://icecreamkei.github.io </h4>
 </p>
 
 <h3 align="left">Connect with me:</h3>
