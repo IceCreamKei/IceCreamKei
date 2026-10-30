@@ -1,8 +1,6 @@
 <h1 align="center">👋👋👋, I'm Vince</h1>
 <h3 align="center">Programmer</h3>
 
-- 🌱 My programming languages: **Python, Javascript, Rust, C, Java, Godot**
-
 - 📫 How to reach me: **nrickyvince@gmail.com or rcnarvasa@up.edu.ph**
 
 <h3 align="left">What people should know about me:</h3>
